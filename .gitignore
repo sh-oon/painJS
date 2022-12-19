@@ -7,8 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-
-package-lock.json
 node_modules
 dist
 dist-ssr
@@ -18,3 +16,9 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
